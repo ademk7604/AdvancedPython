@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/weather?q=Lenting,de&APPID=0d6c009b39a7ddbd4b2905e1815f8347

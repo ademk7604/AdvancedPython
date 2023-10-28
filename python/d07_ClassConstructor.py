@@ -19,3 +19,6 @@ Opel = Araba("Opel",4,250,1200)
 Renault = Araba("Renault",5,500,1700)
 
 print("----")
+
+
+
